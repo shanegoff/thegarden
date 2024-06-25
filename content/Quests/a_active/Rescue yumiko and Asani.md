@@ -1,1 +1,1 @@
-[[Magnus]] has kidnapped [[Yumiko]] and [[Asani Blackbriar]]. He intends to use them somehow to get to the garden.
+[Magnus]({{< ref "Magnus" >}}) has kidnapped [Yumiko]({{< ref "Yumiko" >}}) and [Asani Blackbriar]({{< ref "Asani Blackbriar" >}}). He intends to use them somehow to get to the garden.

@@ -6,7 +6,7 @@ Aliases
 The Blind goddess
 The goddess of fertility
 
-- [[Asani Blackbriar]] The Seer
-- [[Sabra]] The Helm
-- [[Yumiko]] The Shield
-- [[People/Freya]] The Spear
+- [Asani Blackbriar]({{< ref "Asani Blackbriar" >}}) The Seer
+- [Sabra]({{< ref "Sabra" >}}) The Helm
+- [Yumiko]({{< ref "Yumiko" >}}) The Shield
+- [People/Freya]({{< ref "People/Freya" >}}) The Spear

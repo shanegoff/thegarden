@@ -12,24 +12,24 @@ Which allows me to run at a wall full speed and have a 1 in 6 chance of passing 
 
 ## Short term
 - escape the blackened stronghold
-- kill blackened leaders for working with the [[Temple of Confractus]]
+- kill blackened leaders for working with the [Temple of Confractus]({{< ref "Temple of Confractus" >}})
 - cripple the blackened reproductive system
 - cripple blackened experiment system
 - Save the commoners we freed from the cages
-- guide [[Sir Henry]] and others back to the blackened and exterminate them
+- guide [Sir Henry]({{< ref "Sir Henry" >}}) and others back to the blackened and exterminate them
 
 # Medium Term
 
 - Recruit a squire to bring the paladin to this ruined world
-- Weaken the [[Temple of Confractus]]
-- Find the  [[Eye of Benediction]]
+- Weaken the [Temple of Confractus]({{< ref "Temple of Confractus" >}})
+- Find the  [Eye of Benediction]({{< ref "Eye of Benediction" >}})
 
 ## Long Term
 
 - ~~Take revenge on brother~~
 - ~~Go home~~
 - Save the humans of the meat locker
-- Destroy [[Magnus]]
+- Destroy [Magnus]({{< ref "Magnus" >}})
 - Carve out a life in Zanthis
 
 

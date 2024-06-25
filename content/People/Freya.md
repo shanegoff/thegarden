@@ -1,1 +1,1 @@
-Avatar of wrath for the [[Zaethia]]
+Avatar of wrath for the [Zaethia]({{< ref "Zaethia" >}})

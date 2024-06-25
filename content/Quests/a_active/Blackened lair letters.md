@@ -8,7 +8,7 @@ Our Lord asks that you have the facility ready by the twelfth day of Rosa. He wi
 Uzzain,Castrum of the Temple of Confractus
 ```
 
-[[Uzzain]] from the [[Temple of Confractus]] has been communicating with what appears to be the blackened. We were present in the dungeon the day mentioned in the letter. We hid in the experiment room to long rest on that day.
+[Uzzain]({{< ref "Uzzain" >}}) from the [Temple of Confractus]({{< ref "Temple of Confractus" >}}) has been communicating with what appears to be the blackened. We were present in the dungeon the day mentioned in the letter. We hid in the experiment room to long rest on that day.
 
 # Interwoven gears seal 
 
@@ -20,7 +20,7 @@ It has come to my attention that our agreement needs be rearranged. Meet me in t
 Tasatoren, Turrim of the Temple of Confractus"
 ```
 
-[[Tasatoren]] met someone and seems to be trying to convince the letter recipient to aid the [[Temple of Confractus]]
+[Tasatoren]({{< ref "Tasatoren" >}}) met someone and seems to be trying to convince the letter recipient to aid the [Temple of Confractus]({{< ref "Temple of Confractus" >}})
 
 # Letter from M
 
@@ -32,7 +32,7 @@ It appears that my little pet is doing well. Continue to feed it and once it gro
 -M
 ```
 
-We don't know yet who [[M]] is but the appear to be very important
+We don't know yet who [M]({{< ref "M" >}}) is but the appear to be very important
 
 # Scout 1033
 
@@ -51,9 +51,9 @@ There is no movement from the weapons woman or her companions. The long eared on
 We have captured the ones who continue to disrupt the Source and we currently have them contained, though we cannot be sure the Exposure will work on them. We are doing what we can, though a shipment of supplies is needed to further test his lord’s theories. A mending should be possible with all that we have found thus far. His Lord will find that things have gone well thus far and two of them have been Implanted as he desired, though the implantations have not melded yet with the others; their bodies are rejecting them. We will try again with a stronger variant. -Doctor Nhexlu”
 ```
 
-So I'm pretty sure this identifies what [[Alondrus Arnulf Gorr]] has been infected with. The doctor we struck down in the [[Blackened Lair]] mentioned two of us are infected. 
+So I'm pretty sure this identifies what [Alondrus Arnulf Gorr]({{< ref "Alondrus Arnulf Gorr" >}}) has been infected with. The doctor we struck down in the [Blackened Lair]({{< ref "Blackened Lair" >}}) mentioned two of us are infected. 
 
-The doctor appears to be trying to form a solution to mend this "Lord" which I'm assuming is [[Magnus]] until proven otherwise. Or at least one of the avatars of Magnus.
+The doctor appears to be trying to form a solution to mend this "Lord" which I'm assuming is [Magnus]({{< ref "Magnus" >}}) until proven otherwise. Or at least one of the avatars of Magnus.
 
 
 

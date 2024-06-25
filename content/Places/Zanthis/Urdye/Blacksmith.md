@@ -1,1 +1,1 @@
-The [[Urdye]] blacksmith is staffed by Grom. He can acquire rare items with some lead time and a lump of gold.
+The [Urdye]({{< ref "Urdye" >}}) blacksmith is staffed by Grom. He can acquire rare items with some lead time and a lump of gold.

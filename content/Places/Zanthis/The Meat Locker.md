@@ -1,4 +1,4 @@
-This is the building we found with thousands of humans sleeping in pods deep underground in the quest [[Save the time lost humans]]
+This is the building we found with thousands of humans sleeping in pods deep underground in the quest [Save the time lost humans]({{< ref "Save the time lost humans" >}})
 
 
 

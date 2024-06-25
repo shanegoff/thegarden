@@ -1,4 +1,4 @@
-The eye of benediction is a magic item that [[Yumiko]] thinks can hold the fragments of Magnus like casius. 
+The eye of benediction is a magic item that [Yumiko]({{< ref "Yumiko" >}}) thinks can hold the fragments of Magnus like casius. 
 
 To destroy the fragments we must also destroy the eye. 
 

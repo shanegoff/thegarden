@@ -1,1 +1,1 @@
-The blood God. Worshiped at the [[Temple of the Sanguine hand]] in [[Urdye]] and likely other places.
+The blood God. Worshiped at the [Temple of the Sanguine hand]({{< ref "Temple of the Sanguine hand" >}}) in [Urdye]({{< ref "Urdye" >}}) and likely other places.
