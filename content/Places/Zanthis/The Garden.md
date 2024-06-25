@@ -1,0 +1,1 @@
+A sacred place filled with magical artifacts and the sacred soul trees. The soul trees grow mortal souls that are birthed into the world.

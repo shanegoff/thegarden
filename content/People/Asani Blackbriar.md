@@ -1,0 +1,1 @@
+Lady Asani Blackbriar is a celestial vampire lord. She is one of the avatars of the

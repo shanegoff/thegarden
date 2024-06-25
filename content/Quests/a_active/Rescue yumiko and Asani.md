@@ -1,0 +1,1 @@
+[[Magnus]] has kidnapped [[Yumiko]] and [[Asani Blackbriar]]. He intends to use them somehow to get to the garden.

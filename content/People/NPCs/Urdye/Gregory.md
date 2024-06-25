@@ -1,0 +1,1 @@
+Guards the entrance to [[Urdye]]. [[Asani Blackbriar]] mentioned we should remember him and be friends.
