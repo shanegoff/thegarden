@@ -1,4 +1,4 @@
-We have been kidnapped by [The Blackened]({{< ref "The Blackened" >}}) and taken to a secret underground lair. 
+We have been kidnapped by [[The Blackened]] and taken to a secret underground lair. 
 
 There are 3 floors. 
 

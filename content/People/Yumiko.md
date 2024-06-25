@@ -1,1 +1,1 @@
-An avatar of the [Zaethia]({{< ref "Zaethia" >}})
+An avatar of the [[Zaethia]]

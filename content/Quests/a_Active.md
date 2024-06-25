@@ -1,4 +1,4 @@
-- [Find our way home]({{< ref "Find our way home" >}})
-- [Save the time lost humans]({{< ref "Save the time lost humans" >}})
-- [Help Vermilla]({{< ref "Help Vermilla" >}})
+- [[Find our way home]]
+- [[Save the time lost humans]]
+- [[Help Vermilla]]
 - 

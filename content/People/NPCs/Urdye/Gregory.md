@@ -1,1 +1,1 @@
-Guards the entrance to [Urdye]({{< ref "Urdye" >}}). [Asani Blackbriar]({{< ref "Asani Blackbriar" >}}) mentioned we should remember him and be friends.
+Guards the entrance to [[Urdye]]. [[Asani Blackbriar]] mentioned we should remember him and be friends.

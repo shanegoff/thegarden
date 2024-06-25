@@ -1,3 +1,3 @@
-The Helm of the [Zaethia]({{< ref "Zaethia" >}})
+The Helm of the [[Zaethia]]
 
-Also is the sitting blood mother of [Urdye]({{< ref "Urdye" >}})
+Also is the sitting blood mother of [[Urdye]]

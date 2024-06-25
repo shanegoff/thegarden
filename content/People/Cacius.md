@@ -1,5 +1,5 @@
-Cacius is the "wrath" avatar of [Magnus]({{< ref "Magnus" >}})
+Cacius is the "wrath" avatar of [[Magnus]]
 
-We met him in the [City of Slaves]({{< ref "City of Slaves" >}}) where he kidnapped [Asani Blackbriar]({{< ref "Asani Blackbriar" >}}) and [Yumiko]({{< ref "Yumiko" >}})
+We met him in the [[City of Slaves]] where he kidnapped [[Asani Blackbriar]] and [[Yumiko]]
 
 He beat our asses and left us to the guard

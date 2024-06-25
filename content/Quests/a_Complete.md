@@ -1,2 +1,2 @@
-- [Someone is kidnapping locals in Urdye]({{< ref "Someone is kidnapping locals in Urdye" >}})
-- [Find the goblin with a hat]({{< ref "Find the goblin with a hat" >}})
+- [[Someone is kidnapping locals in Urdye]]
+- [[Find the goblin with a hat]]

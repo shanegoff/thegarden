@@ -1,1 +1,1 @@
-The Violet Infernal Guild is in [Urdye]({{< ref "Urdye" >}}) and is ran by the blood mother aka [Sabra]({{< ref "Sabra" >}}). It is an information collecting guild.
+The Violet Infernal Guild is in [[Urdye]] and is ran by the blood mother aka [[Sabra]]. It is an information collecting guild.

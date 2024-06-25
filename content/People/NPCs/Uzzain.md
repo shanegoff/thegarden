@@ -1,1 +1,1 @@
-Costrum of the [Temple of Confractus]({{< ref "Temple of Confractus" >}})
+Costrum of the [[Temple of Confractus]]
